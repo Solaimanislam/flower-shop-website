@@ -228,8 +228,32 @@ body {
 .social {
     margin-top: 80px;
 }
-.social-img{
+
+.social-img {
     margin: 40px 120px;
     display: flex;
     gap: 20px;
+}
+
+/* Latest detail styles */
+.latest-detail {
+    background-image: url('../Flower Asset/Rectangle 9.png');
+    width: 1440px;
+    height: 449px;
+    margin: 40px 120px;
+    border-radius: 8px;
+}
+
+.latest-info {
+    padding-top: 150px;
+}
+
+.latest-input {
+    width: 500px;
+    height: 50px;
+    border-radius: 8px;
+    background: #FFF;
+}
+.latest{
+    text-align: center;
 }
