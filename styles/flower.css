@@ -138,10 +138,11 @@ body {
     height: 250px;
     border-radius: 8px;
     background: rgba(39, 39, 39, 0.05);
-    margin: 100px 100px;
+    margin: 100px 120px;
     display: flex;
     justify-content: space-around;
     padding-top: 80px;
+
 }
 
 .opt1 {
@@ -167,6 +168,8 @@ body {
 
 /* hot deal styles */
 .hot-deal {
+    width: 1922px;
+    height: 500px;
     display: flex;
     justify-content: space-around;
     border-radius: 8px;
@@ -219,4 +222,14 @@ body {
     width: 318px;
     height: 420px;
     padding-right: 200px;
+    padding-top: 50px;
+}
+
+.social {
+    margin-top: 80px;
+}
+.social-img{
+    margin: 40px 120px;
+    display: flex;
+    gap: 20px;
 }
