@@ -254,6 +254,51 @@ body {
     border-radius: 8px;
     background: #FFF;
 }
-.latest{
+
+.latest {
     text-align: center;
+}
+
+/* footer styles */
+.footer-info {
+    width: 1700px;
+    height: 350px;
+    background: #111010;
+    padding-top: 100px;
+    margin-top: 100px;
+}
+
+.section-title-footer {
+    color: #E55473;
+    text-align: center;
+    font-family: Lato;
+    font-size: 48px;
+    font-weight: 800;
+    margin-bottom: 20px;
+}
+
+.section-title-footer span {
+    color: #FFF;
+    font-family: Lato;
+    font-size: 48px;
+    font-weight: 800;
+
+}
+
+#section-description-footer {
+    width: 500px;
+    color: rgba(255, 255, 255, 0.90);
+    text-align: center;
+    font-family: Lato;
+    font-size: 18px;
+    font-weight: 400;
+    padding-left: 600px;
+}
+
+.footer-copy {
+    color: rgba(255, 255, 255, 0.40);
+    text-align: center;
+    font-family: Lato;
+    font-size: 16px;
+    font-weight: 400;
 }
